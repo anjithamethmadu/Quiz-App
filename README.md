@@ -4,10 +4,9 @@ Welcome to the Quiz App! This project is a simple, interactive quiz application 
 
 Technologies Used
 
-React: For building the user interface.
+React: For building the user interface,
 CSS: For styling the application.
 
-Contributing
 Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!
 
 
