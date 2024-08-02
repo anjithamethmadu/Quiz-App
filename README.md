@@ -1,25 +1,13 @@
 Quiz App
 
-Welcome to the Quiz App! This project is a simple, interactive quiz application built with React. It is designed to test your knowledge with a series of questions and provide instant feedback on your answers. The application includes features such as:
-
-Dynamic Question Navigation: Move through the quiz questions with a "Next" button, which updates the question and options dynamically.
-
-Answer Validation: Click on options to see whether your answer is correct or incorrect. Correct answers are highlighted in light red, while incorrect ones are highlighted in light blue.
-
-Score Tracking: Your score is tracked and displayed at the end of the quiz.
-
-Result Messages: A personalized message is shown based on your final score. If you score 8 or more out of the total questions, you'll see a special message celebrating your expertise!
-
-Responsive Design: The app is designed to be visually appealing and functional on various devices.
+Welcome to the Quiz App! This project is a simple, interactive quiz application built with React. It is designed to test your knowledge with a series of questions and provide instant feedback on your answers.
 
 Technologies Used
 
 React: For building the user interface.
-
 CSS: For styling the application.
 
 Contributing
-
 Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!
 
 
