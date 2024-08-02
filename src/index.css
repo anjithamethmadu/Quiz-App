@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  background:url('src/assets/wp10275736.jpg') no-repeat center fixed;
+  font-family: 'poppins';
+  background-size: cover;
+}
